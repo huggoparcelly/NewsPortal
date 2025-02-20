@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="economy_color">#00B0FF</color>
+    <color name="politic_color">#921074</color>
+    <color name="sport_color">#1DE9B6</color>
 </resources>
